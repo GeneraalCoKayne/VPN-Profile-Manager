@@ -1,9 +1,7 @@
 # VPN-Profile-Manager  
 **Windows VPN Profile Manager**  
 
-[![PowerShell](https://img.shields.io/badge/PowerShell-5%2B-blue?logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)  
-[![Issues](https://img.shields.io/github/issues/GeneraalCoKayne/VPN-Profile-Manager)](https://github.com/GeneraalCoKayne/VPN-Profile-Manager/issues)  
-[![Stars](https://img.shields.io/github/stars/GeneraalCoKayne/VPN-Profile-Manager?style=social)](https://github.com/GeneraalCoKayne/VPN-Profile-Manager/stargazers)  
+[![PowerShell](https://img.shields.io/badge/PowerShell-5%2B-blue?logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)  [![Issues](https://img.shields.io/github/issues/GeneraalCoKayne/VPN-Profile-Manager)](https://github.com/GeneraalCoKayne/VPN-Profile-Manager/issues)  [![Stars](https://img.shields.io/github/stars/GeneraalCoKayne/VPN-Profile-Manager?style=social)](https://github.com/GeneraalCoKayne/VPN-Profile-Manager/stargazers)  
 
 This PowerShell-based utility allows you to create and manage VPN profiles on Windows with advanced configuration options that are not available in the default Windows GUI.  
 
