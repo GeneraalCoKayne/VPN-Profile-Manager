@@ -21,7 +21,7 @@ param(
 )
 
 # Clear console and show logo
-Clear-Host
+#Clear-Host
 
 # Load required assemblies
 Add-Type -AssemblyName System.Windows.Forms
