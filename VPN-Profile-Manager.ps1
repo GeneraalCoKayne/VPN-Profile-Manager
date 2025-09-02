@@ -1,10 +1,25 @@
-﻿#VPN Profile Manager - PowerShell Script
-#PowerShell-based tool for creating and managing VPN profiles in Windows.  
-#Provides additional configuration options that are not directly available through the default Windows interface.
-#AUTHOR Kayne Krösschell
-#SOURCE https://github.com/GeneraalCoKayne/VPN-Profile-Manager
-#VERSION 0.0.1
+<#
+.SYNOPSIS
+    VPN Profile Manager - PowerShell Script
 
+.DESCRIPTION
+    PowerShell-based tool for creating and managing VPN profiles in Windows.  
+    Provides additional configuration options that are not available through the default Windows interface.
+
+.AUTHOR
+    Kayne Krösschell
+
+.SOURCE
+    GitHub Repository:
+    https://github.com/GeneraalCoKayne/VPN-Profile-Manager
+
+.VERSION
+    0.0.1
+
+.NOTES
+    * Use this script at your own risk.
+    * Tested on Windows 10 and 11.
+#>
 param(
     [switch]$Debug
 )
