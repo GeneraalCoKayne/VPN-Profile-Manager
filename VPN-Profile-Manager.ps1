@@ -15,10 +15,6 @@
 
 .VERSION
     0.0.1
-
-.NOTES
-    * Use this script at your own risk.
-    * Tested on Windows 10 and 11.
 #>
 param(
     [switch]$Debug
