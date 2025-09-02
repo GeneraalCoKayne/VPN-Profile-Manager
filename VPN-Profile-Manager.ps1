@@ -3,8 +3,8 @@
     VPN Profile Manager - PowerShell Script
 
 .DESCRIPTION
-    This script was developed by Kayne Krösschell.
-    It creates VPN profiles in Windows with additional options that are not directly available through the default Windows settings.
+    PowerShell-based tool for creating and managing VPN profiles in Windows.  
+    Provides additional configuration options that are not directly available through the default Windows interface.
 
 .AUTHOR
     Kayne Krösschell
@@ -17,8 +17,8 @@
     0.0.1
 
 .NOTES
-    - Use this script at your own risk.
-    - Compatible with Windows 10 and 11.
+    * Use this script at your own risk.
+    * Tested on Windows 10 and 11.
 #>
 param(
     [switch]$Debug
