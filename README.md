@@ -5,9 +5,9 @@
 
 This PowerShell-based utility allows you to create VPN profiles on Windows with advanced configuration options that are not directly available in the default Windows GUI.  
 
-![screen-install](https://raw.githubusercontent.com/GeneraalCoKayne/VPN-Profile-Manager/refs/heads/main/image.png)
+> ⚡ Run it directly from PowerShell with a single command — no manual downloads required.
 
-> ⚡ Run it directly from PowerShell with a single command — no manual downloads required.  
+![screen-install](https://raw.githubusercontent.com/GeneraalCoKayne/VPN-Profile-Manager/refs/heads/main/image.png)
 
 ---
 
