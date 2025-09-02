@@ -1,4 +1,26 @@
-﻿param(
+﻿<#
+.SYNOPSIS
+    VPN Profile Manager - PowerShell Script
+
+.DESCRIPTION
+    This script was developed by Kayne Krösschell.
+    It creates VPN profiles in Windows with additional options that are not directly available through the default Windows settings.
+
+.AUTHOR
+    Kayne Krösschell
+
+.SOURCE
+    GitHub Repository:
+    https://github.com/GeneraalCoKayne/VPN-Profile-Manager
+
+.VERSION
+    0.0.1
+
+.NOTES
+    - Use this script at your own risk.
+    - Compatible with Windows 10 and 11.
+#>
+param(
     [switch]$Debug
 )
 
