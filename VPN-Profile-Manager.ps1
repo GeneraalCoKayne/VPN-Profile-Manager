@@ -20,12 +20,13 @@
     * Use this script at your own risk.
     * Tested on Windows 10 and 11.
 #>
+
 param(
     [switch]$Debug
 )
 
 # Clear console and show logo
-#Clear-Host
+Clear-Host
 
 # Load required assemblies
 Add-Type -AssemblyName System.Windows.Forms
